@@ -1,0 +1,127 @@
+﻿  Videojuego.cpp
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(29): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(29): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(30): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(30): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(35): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(35): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(38): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(38): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\Luis\Documents\Visual Studio 2015\GL\include\Utilidades.h(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(56): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(111): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(127): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(128): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(129): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(130): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(131): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(132): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(133): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(145): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(146): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(147): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(148): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(149): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(150): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(151): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(165): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(165): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(166): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(174): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(174): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(175): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(175): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(183): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(183): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(185): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(185): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(279): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(283): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(283): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(285): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(326): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(331): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(332): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(357): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(357): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(370): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(379): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(388): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(388): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(395): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(400): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(402): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(417): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(417): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(419): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(419): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(428): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(439): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(441): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(471): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(471): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(471): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(471): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(472): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(472): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(472): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(472): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(473): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(473): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(473): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(473): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(474): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(474): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(474): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(474): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(493): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(494): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(506): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Videojuego.cpp(507): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(520): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(520): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(535): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(536): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(543): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(545): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(545): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(553): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(553): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(555): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(555): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Videojuego.cpp(556): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Videojuego.cpp(556): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Videojuego.cpp(598): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(605): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(612): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(616): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Videojuego.cpp(681): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Videojuego.cpp(685): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  0 of 127 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProyectoFinal.vcxproj -> C:\Users\Luis\Documents\Universidad\Projectos Visual Studio\ProyectoFinal\Release\ProyectoFinal.exe
+  ProyectoFinal.vcxproj -> C:\Users\Luis\Documents\Universidad\Projectos Visual Studio\ProyectoFinal\Release\ProyectoFinal.pdb (Full PDB)
