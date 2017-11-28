@@ -5,6 +5,9 @@ In this game we control a car from a 1st person view that has to collect the sta
 
 The game also includes a night mode, fog mode, a simple interface to show the car's direction and speed and a wired mode. It also detects collisions with the starts to increase the score.
 
+A gameplay showing the different features of the game can be found here:
+https://www.youtube.com/watch?v=GFIYmg5vmt0
+
 
 GAME CONTROLS:
 Up/down arrows: Increase/decrease speed
